@@ -59,7 +59,7 @@ We’re building **an emotional safety net for Gen-Z and beyond** — one quiet 
 ## 🤝 Contributing
 
 This is a deeply personal project, but if you vibe with the idea and want to help build a better emotional space online — feel free to fork and open a PR.  
-Or reach out. I’d love to connect. 💬
+Or reach out to rit609009@gmail.com. I’d love to connect. 💬
 
 ---
 
@@ -76,4 +76,4 @@ Sometimes the best way to talk... is to simply write.
 
 ---
 
-### 🌌 Made with purpose by [depthstack]  
+### 🌌 Made with purpose by [ShazanZaidii]  
